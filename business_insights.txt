@@ -1,29 +1,36 @@
-# 🔑 Key Insights & Recommendations  
+🔑 Key Insights & Recommendations
 
-**1. Revenue is concentrated in a few high-performing categories**  
-- Categories like **Beverages and Snacks** dominate total revenue.  
-📌 **Recommendation:** Prioritize these in **marketing** while boosting underperformers.  
+1. Revenue is concentrated in a few high-performing categories
 
-**2. Out-of-stock items lead to lost revenue**  
-- **Premium and popular items** often run out of stock.  
-📌 **Recommendation:** Improve **inventory forecasting** to prevent missed sales.  
+Categories like Beverages and Snacks dominate total revenue.
+📌 Recommendation: Prioritize these in marketing while boosting underperformers.
 
-**3. Discounts are not always profitable**  
-- Some products rely heavily on discounts, cutting into **profit margins**.  
-📌 **Recommendation:** Apply **smart discounting**—focus on slow-movers, reduce for already popular items.  
+2. Out-of-stock items lead to lost revenue
 
-**4. Premium products sell well with little/no discounts**  
-- Customers willingly pay full price for **strong brands**.  
-📌 **Recommendation:** Protect **profit margins** by avoiding unnecessary discounts here.  
+Premium and popular items often run out of stock.
+📌 Recommendation: Improve inventory forecasting to prevent missed sales.
 
-**5. Bulk packs = better value for both business and customers**  
-- Larger packs cost less per unit and drive higher **basket size**.  
-📌 **Recommendation:** Promote **bulk pack upsells** as a loyalty strategy.  
+3. Discounts are not always profitable
 
-**6. Storage space usage varies across categories**  
-- Some categories consume higher **weight per revenue**.  
-📌 **Recommendation:** Optimize **warehouse space** to cut carrying costs.  
+Some products rely heavily on discounts, cutting into profit margins.
+📌 Recommendation: Apply smart discounting—focus on slow-movers, reduce for already popular items.
 
-**7. Clear split between fast-moving and slow-moving products**  
-- High churn vs. stagnant inventory observed.  
-📌 **Recommendation:** **Bundle, discount, or phase out** slow-movers; double down on **fast-movers**.  
+4. Premium products sell well with little/no discounts
+
+Customers willingly pay full price for strong brands.
+📌 Recommendation: Protect profit margins by avoiding unnecessary discounts here.
+
+5. Bulk packs = better value for both business and customers
+
+Larger packs cost less per unit and drive higher basket size.
+📌 Recommendation: Promote bulk pack upsells as a loyalty strategy.
+
+6. Storage space usage varies across categories
+
+Some categories consume higher weight per revenue.
+📌 Recommendation: Optimize warehouse space to cut carrying costs.
+
+7. Clear split between fast-moving and slow-moving products
+
+High churn vs. stagnant inventory observed.
+📌 Recommendation: Bundle, discount, or phase out slow-movers; double down on fast-movers.slow-movers; double down on **fast-movers**.  
