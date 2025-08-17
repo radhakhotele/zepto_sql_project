@@ -7,7 +7,6 @@ As my **first data analysis project**, I aimed to extract valuable **business in
 The project highlights how **SQL queries** can provide meaningful insights for business analysis.
 
 ---
-
 ## 📂 Dataset
 - Size: ~3700 rows X 9 columns   
 - Contains product and sales details such as:  
@@ -22,13 +21,11 @@ The project highlights how **SQL queries** can provide meaningful insights for b
   - Weight in grams  
 
 ---
-
 ## ⚙️ Tools & Technologies
 - **PostgreSQL** – For writing and executing queries  
 - **pgAdmin** – Database management and query execution  
 
 ---
-
 ## 📊 Business Insights Explored
 - Total revenue estimation  
 - Revenue contribution by product category  
@@ -38,25 +35,16 @@ The project highlights how **SQL queries** can provide meaningful insights for b
 - Pricing and discount strategy analysis  
 
 ---
-
 ## 🚀 Key Learnings
 - Strengthened SQL skills in filtering, grouping, and aggregating data  
 - Learned how to convert raw datasets into **business-friendly insights**  
 - Built confidence in handling real-world datasets without visualization tools  
 
 ---
-
-## 📌 Future Scope
-- Extend analysis with **Power BI dashboards**  
-- Add **Python-based visualizations** (Matplotlib/Seaborn)  
-- Automate queries for periodic reporting
-- 
-
-  **FINAL NOTE:**
+**FINAL NOTE:**
 This project demonstrates how raw CSV data → SQL analysis → business insights can translate into real-world decision-making for inventory management, pricing, and marketing strategy.
 
 ---
-
 ## 👩‍💻 Author
 **Radha Khotele**  
 - 💼 Aspiring Data Analyst     
