@@ -25,6 +25,10 @@ The project highlights how **SQL queries** can provide meaningful insights for b
 - **PostgreSQL** – For writing and executing queries  
 - **pgAdmin** – Database management and query execution  
 
+🛠️ **Data Work**
+Performed data exploration & cleaning (handled nulls, duplicates, discount validation).
+
+Standardized fields for accurate analysis.
 ---
 ## 📊 Business Insights Explored
 - Total revenue estimation  
